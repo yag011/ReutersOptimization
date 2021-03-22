@@ -4,6 +4,10 @@ About this project:
 
 I developed a tool that automatically categorizes Reuters Newswire articles.
 
+Final Report:
+
+My detailed analysis is available in Reuters Final Report.pdf
+
 Data source:
 
 I used the TensorFlow/Keras's built in dataset. The python import code is as follows:
